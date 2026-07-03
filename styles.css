@@ -196,7 +196,7 @@ body {
 .offer-heading {
   font-family: 'EB Garamond', serif;
   font-weight: 400;
-  font-size: clamp(26px, 3.6vw, 48px);
+  font-size: clamp(34px, 5vw, 52px);
   line-height: 1.15;
   margin: 0;
   margin-top: clamp(6px, 2vw, 26px);
@@ -351,7 +351,7 @@ body {
 .cta-heading {
   font-family: 'EB Garamond', serif;
   font-weight: 400;
-  font-size: clamp(30px, 4.4vw, 42px);
+  font-size: clamp(34px, 5vw, 52px);
   line-height: 1.2;
   margin: 0;
   color: #2c1912;
